@@ -2,7 +2,7 @@ package mypackage;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class RaceCondCriticalSec {
+public class RaceConditionCriticalSection {
 
     public static void main(String[] args) {
 

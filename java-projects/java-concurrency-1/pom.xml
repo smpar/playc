@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
  
-  <groupId>test</groupId>
+  <groupId>mypackage</groupId>
   <artifactId>javaconcurrency1</artifactId>
   <version>1</version>
 
