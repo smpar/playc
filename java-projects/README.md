@@ -2,7 +2,7 @@
 
 ## hello
 
-https://dzone.com/articles/compiling-and-running-java
+1. https://dzone.com/articles/compiling-and-running-java
 
 * Manual:
 ```
@@ -21,6 +21,10 @@ user@workstation:~/playc/hello$ rm -rf src/com/hello/*.class
 ```
 
 ## java-concurrency-1
+
+1. https://www.vogella.com/tutorials/JavaConcurrency/article.html
+2. http://tutorials.jenkov.com/java-concurrency/volatile.html
+
 ```
 mvn
 java --class-path target mypackage.Main
