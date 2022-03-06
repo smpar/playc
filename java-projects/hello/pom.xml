@@ -13,7 +13,7 @@
   <build>
     <defaultGoal>compile</defaultGoal>
     <sourceDirectory>src</sourceDirectory>
-    <outputDirectory>src</outputDirectory>
+    <outputDirectory>target</outputDirectory>
     <finalName>${project.artifactId}-${project.version}</finalName>
 </build>
 </project>

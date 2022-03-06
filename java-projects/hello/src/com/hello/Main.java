@@ -19,18 +19,3 @@ public class Main {
         c.setWheelSize(c.getWheelSize()++);
     }*/
 }
-
-/*
-https://dzone.com/articles/compiling-and-running-java
-
-Manual:
-user@workstation:~/playc/hello$ javac --source-path src/ src/com/hello/*.java
-user@workstation:~/playc/hello$ java --class-path src com.hello.Main
-
-Maven:
-user@workstation:~/playc/hello$ mvn
-user@workstation:~/playc/hello$ mvn exec:java -Dexec.mainClass=com.hello.Main
-
-Clean:
-user@workstation:~/playc/hello$ rm -rf src/com/hello/*.class
-*/
