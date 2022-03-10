@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <cstring>
+#include <algorithm>
 
 void print_ar(int ar[], int n) {
     for(int i = 0; i < n; i++)
@@ -34,4 +35,8 @@ int main () {
         std::swap(s3[i], s3[len-1-i]);
     }
     std::cout << s3 << std::endl;
+
+    std::string s4("ABCD");
+    reverse(s4.begin(), s4.end());
+    std::cout << s4 << std::endl;
 }
