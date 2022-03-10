@@ -27,4 +27,11 @@ int main () {
     std::cout << s1 << " n1: " << n1 << std::endl;
     revert_ar(s1, n1);
     std::cout << s1 << " n1: " << n1 << std::endl;
+
+    std::string s3("Hello");
+    int len = s3.length();
+    for(int i = 0; i < len/2; i++) {
+        std::swap(s3[i], s3[len-1-i]);
+    }
+    std::cout << s3 << std::endl;
 }
