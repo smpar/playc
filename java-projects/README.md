@@ -30,3 +30,12 @@ mvn
 java --class-path target mypackage.Main
 mvn clean
 ```
+
+## demo
+
+1. https://spring.io/quickstart
+
+* Maven:
+```
+./mvnw spring-boot:run
+```
