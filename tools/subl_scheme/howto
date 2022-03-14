@@ -1,0 +1,13 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Default.sublime-theme",
+//	"color_scheme": "GitHub Light Legacy.sublime-color-scheme",
+//	"color_scheme": "Packages/TangoDark/Tango.tmTheme",
+	"color_scheme": "Packages/Tango.tmTheme",
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+}
+
