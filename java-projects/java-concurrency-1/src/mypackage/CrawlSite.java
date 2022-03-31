@@ -7,7 +7,7 @@ public class CrawlSite {
     private List<String> crawledSitesL = new ArrayList<String>();
     private List<String> linkedSitesL = new ArrayList<String>();
 
-        volatile int longvar = 5;
+    volatile int longvar = 5;
 
 
     public void add(String site) {

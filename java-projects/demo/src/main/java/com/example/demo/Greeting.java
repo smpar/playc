@@ -1,3 +1,5 @@
+// A Resource Representation Class
+
 package com.example.demo;
 
 public class Greeting {
