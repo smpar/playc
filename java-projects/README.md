@@ -34,6 +34,8 @@ mvn clean
 ## demo
 
 1. https://spring.io/quickstart
+2. https://spring.io/guides/gs/rest-service/
+3. https://spring.io/guides/gs/serving-web-content/
 
 * Maven:
 ```
